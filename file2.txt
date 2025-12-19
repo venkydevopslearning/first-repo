@@ -1,1 +1,2 @@
 this is file2.txt, created by venkatesh for learning git
+this is file2 created for test2 user
