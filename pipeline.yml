@@ -1,0 +1,9 @@
+stages:
+  - build:
+
+jobs: 
+  stage: build
+  script: 
+    - echo "Build from feature"
+
+
