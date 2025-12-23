@@ -1,1 +1,1 @@
-Pipeline Stage: BASE
+Pipeline Stage: TEST
