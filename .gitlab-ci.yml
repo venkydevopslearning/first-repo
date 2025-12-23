@@ -1,7 +1,13 @@
 stages:
   - test:
+  - build: 
 test_job:
   stage: test
   script: 
     - echo "Testing from main branch"
+
+build_job: 
+  stage: build
+  script: 
+    - echo "building from feature branch"
 
