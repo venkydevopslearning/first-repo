@@ -1,7 +1,8 @@
 stages:
-  - build: 
+  - test
 
 job:
-   stage: build 
-   script: 
-     - echo "Build from feature" 
+  stage: test
+  script:
+    - echo "Test from main"
+
