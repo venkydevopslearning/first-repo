@@ -1,1 +1,11 @@
-Pipeline Stage: DEPLOY
+Pipeline Stages:
+- BUILD
+- TEST
+- DEPLOY
+
+
+#<<<<<<< HEAD
+#Pipeline Stage: DEPLOY
+#=======
+#Pipeline Stage: BUILD
+#>>>>>>> 628127a (feature adds build stage)
